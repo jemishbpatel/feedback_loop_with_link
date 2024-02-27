@@ -1,0 +1,105 @@
+Problem,Solution ID,Solution label,Confluence link
+Fix issue with geo location not updated,0,Geo-location,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/Ed93VNnljS9AiAOt1gKuf4EB8gA-ea43i5h7BASFzZSrJw?e=uuIdzx
+"[Databridge] Disabling the DB disables the WiFi-1 also, if we ON the 'Cellular Modems' after Databridge started.",1,Wifi,https://www.google.com/
+Modem sometimes provide IPV6 without NAT64 support and will dial forever,2,IPV6,https://www.google.com/
+Modem Sierra EM7430 on LU600 won't connect with Partner SIM Card,3,PDP context,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EdI6Pr4LJoJCtJmzI0ZOADYBw4rr03YCa6sbZ8rN4WZIQQ?e=YI5IdL
+Landing page doesn't work properly with 2nd WiFi,1,Wifi,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EaxQPTPhurNDgfwvh_w_NysBArlQ8RuMLxDjEv_ZVnAqEQ?e=sXaFlI
+Modem ZTEMF79S doesn't provide sim card provider name,4,Operator and technology name,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/ERDaX-9sYddJuQYbCGq9lyABr87WD-hycPJeLV0yR6q0jw?e=mePuSz
+Unit cannot transmit video from two interfaces if both share the same IP address,5,IP conflict,https://www.google.com/
+Jionet 5G in india cannot connect due to unsupported PDP context with EM9191,3,PDP context,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EdI6Pr4LJoJCtJmzI0ZOADYBw4rr03YCa6sbZ8rN4WZIQQ?e=YI5IdL
+modems not connected after switching SIM A to B,6,SIM switch,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EYTt0pDVqAtEnKc02XyypZoBdc26mx8dTrM0jZPuEzu0fA?e=EdEg62
+Modem HuaweiE8372h153 provide sim card provider name and technology,4,Operator and technology name,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/ERDaX-9sYddJuQYbCGq9lyABr87WD-hycPJeLV0yR6q0jw?e=mePuSz
+"eaglenest-""Network mode"" selection displayed on LUC for 4G modems, if we replace a 5G modem with a 4G modem",7,Force technlogoy,https://www.google.com/
+LU-Unit Geo-location does not update on LUC after SIM switching from A to B,0,Geo-location,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/Ed93VNnljS9AiAOt1gKuf4EB8gA-ea43i5h7BASFzZSrJw?e=uuIdzx
+"LU610 Modems unable to enter state ""Connected""",3,PDP context,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EdI6Pr4LJoJCtJmzI0ZOADYBw4rr03YCa6sbZ8rN4WZIQQ?e=YI5IdL
+"LU800 - ""Modem under firmware upgrade"" pop-up display on unit GUI when firmware upgrade process was already done and try to disable the modem port from GUI",8,Firmware upgrade,https://www.google.com/
+Verizon modem displays on GUI after disconnection,9,Statemachine,https://www.google.com/
+"firmware mismatch issue in NAB units (EM7565 stuck on LPM), Recover modem from LPM before any other commands",10,LPM,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EdIFV_cWGL9IjqM1BxlIF1gBzR9wkKP06_YZLWIEXhh6RA?e=5Kgek8
+LU300S in Switzerland not showing results of network scan with KPN sim,11,networkscan,https://www.google.com/
+Do not display dual sim support for nimblelink,6,SIM switch,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EYTt0pDVqAtEnKc02XyypZoBdc26mx8dTrM0jZPuEzu0fA?e=EdEg62
+"Quectel EM12 New firmware - 01.007 support in MBN profile ""Commercial-TMO""",3,PDP context,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EdI6Pr4LJoJCtJmzI0ZOADYBw4rr03YCa6sbZ8rN4WZIQQ?e=YI5IdL
+Incorrect Geo-Location in LU300s with EM7430 modems (New feature request),0,Geo-location,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/Ed93VNnljS9AiAOt1gKuf4EB8gA-ea43i5h7BASFzZSrJw?e=uuIdzx
+NTP sync issue + Defaut gateway rotation solution,14,NTP,https://www.google.com/
+DOCOMO Private network - SKIP DNS test when it is not available,15,connectivity issue,https://www.google.com/
+Incorrect GPS location in LU300s incase of EM9191,0,Geo-location,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/Ed93VNnljS9AiAOt1gKuf4EB8gA-ea43i5h7BASFzZSrJw?e=uuIdzx
+Remote Actions - Get Modem Information - Unable to read modem triggered an exception,16,Remote action debug,https://www.google.com/
+Missing current IP address in DHCPREQUEST during renewing state which cause replacing the IP and video drop,17,DHCP issue,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EVMcJW8jE91Fq-wtatVaaKYBe99VckKA9SxS6_UD4Ti-RA?e=hLeT1F
+EM7565 modems misreads MNC/MCC zero values - CIMI API,18,AT command,https://www.google.com/
+"False popup ""Modem under firmware upgrade"" causing modems not to dial",8,Firmware upgrade,https://www.google.com/
+mineo-KDDI SIM on Fujisoft FS040U modem : Operator name not shown on LUC,4,Operator and technology name,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/ERDaX-9sYddJuQYbCGq9lyABr87WD-hycPJeLV0yR6q0jw?e=mePuSz
+Operator name not shown in LUC - DoCoMo 5G,4,Operator and technology name,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/ERDaX-9sYddJuQYbCGq9lyABr87WD-hycPJeLV0yR6q0jw?e=mePuSz
+Reducing modem dialing time in US (NBC),15,connectivity issue,https://www.google.com/
+Roaming - Webbing SIM shows wrong operator name,4,Operator and technology name,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/ERDaX-9sYddJuQYbCGq9lyABr87WD-hycPJeLV0yR6q0jw?e=mePuSz
+Verizon dongle Inseego M1000 not showing Verizon as operator name,4,Operator and technology name,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/ERDaX-9sYddJuQYbCGq9lyABr87WD-hycPJeLV0yR6q0jw?e=mePuSz
+Verizon modems holding back units going online,15,connectivity issue,https://www.google.com/
+Telit modem with Docomo sim disconnect issue merge to 9.0 and Master,3,PDP context,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EdI6Pr4LJoJCtJmzI0ZOADYBw4rr03YCa6sbZ8rN4WZIQQ?e=YI5IdL
+RSSI issue with modems that are using the MBIM command,19,MBIM debugging,https://www.google.com/
+Altair Alt38XX 450Mhz in Hungary is not working anymore,20,dialing,https://www.google.com/
+Modem - Sierra MC7455 failed to switch to SIM B,6,SIM switch,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EYTt0pDVqAtEnKc02XyypZoBdc26mx8dTrM0jZPuEzu0fA?e=EdEg62
+When connecting 8 Quectel modems 4 modems doesn't get dialed,21,Hardware bug,https://www.google.com/
+"Geo-location is not supported in new modems (Telit FN980, Quectel RM500, Sierra EM9190)",0,Geo-location,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/Ed93VNnljS9AiAOt1gKuf4EB8gA-ea43i5h7BASFzZSrJw?e=uuIdzx
+Interfaces list will disappear for couple of seconds in the unit's GUI / LUC,22,Blocker lock,https://www.google.com/
+BW control on external modem E3372-325 is not applied when it is configured from LUC,23,BW Control,https://www.google.com/
+Syntronic Modem - Manual APN configuration not working,24,Manual APN,https://www.google.com/
+Syntronic Modem - LU800 unit online time (approx. 90 sec) with syntronic modem is more than sierra EM9191 modem,15,connectivity issue,https://www.google.com/
+Syntronic Modem - Sometimes unit stuck in udhcpc process and is not able to get the IP address from syntronic modem,17,DHCP issue,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EVMcJW8jE91Fq-wtatVaaKYBe99VckKA9SxS6_UD4Ti-RA?e=hLeT1F
+Sometimes Quectel EM12G modems stuck in dialing after disable-enable from unit GUI/LUC,20,dialing,https://www.google.com/
+Sierra EM9191 modem unable to dial and connect properly,20,dialing,https://www.google.com/
+"USB modem E3372-325 is going into ""Not Modem"" state when configuring BW control from LUC",23,BW Control,https://www.google.com/
+"Disabling the modem with default gateway from unit GUI/LUC will not remove it from ""ifconfig"" wwan entry",25,Default gateway,https://www.google.com/
+Sometimes unit geo-location is not updated on LUC for internal modems,0,Geo-location,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/Ed93VNnljS9AiAOt1gKuf4EB8gA-ea43i5h7BASFzZSrJw?e=uuIdzx
+IPv6 - Sometimes modem EM12G is unable to connect to the operator due to DNS server error when switching the SIM A <--> B,15,connectivity issue,https://www.google.com/
+IPv6 - Sometimes modem EM12G is unable to connect to the operator due to the error 'str' object has no attribute 'interface' when switching the SIM A <--> B,15,connectivity issue,https://www.google.com/
+Wifi connects to a random network after reboot on all units,1,Wifi,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EaxQPTPhurNDgfwvh_w_NysBArlQ8RuMLxDjEv_ZVnAqEQ?e=sXaFlI
+SOLO pro doest reconnect to WI-FI after it was lost and recovered.,1,Wifi,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EaxQPTPhurNDgfwvh_w_NysBArlQ8RuMLxDjEv_ZVnAqEQ?e=sXaFlI
+"[IPV6] Unit shows offline on LUC, however it continue streaming from UNIT side, when IPV4 interface disabled manually",25,Default gateway,https://www.google.com/
+Python 3.11: External Modems Dual Sim - Switch from sim B to sim A can take up to 150 seconds,6,SIM switch,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EYTt0pDVqAtEnKc02XyypZoBdc26mx8dTrM0jZPuEzu0fA?e=EdEg62
+Wifi interface activation toggle is not updated accordngly when switching between the wifi interfaces,1,Wifi,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EaxQPTPhurNDgfwvh_w_NysBArlQ8RuMLxDjEv_ZVnAqEQ?e=sXaFlI
+LU810 - Sometimes Sierra EM9191 modem is not detected as a modem in the initialization state,9,Statemachine,https://www.google.com/
+"Disabling the DB disables the WiFi-1 also, if we ON the 'Cellular Modems' after Databridge started.",1,Wifi,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EaxQPTPhurNDgfwvh_w_NysBArlQ8RuMLxDjEv_ZVnAqEQ?e=sXaFlI
+LU800 Internal Modem Sierra EM7565 has issue to move between Sim A and Sim B without turning off,6,SIM switch,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EYTt0pDVqAtEnKc02XyypZoBdc26mx8dTrM0jZPuEzu0fA?e=EdEg62
+LU300e - Wifi not scanning any network when on version 10.0.1,1,Wifi,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EaxQPTPhurNDgfwvh_w_NysBArlQ8RuMLxDjEv_ZVnAqEQ?e=sXaFlI
+airtel & VI SIM inserted on Quectel EM12G modem not able to connect after SIM A<->B switching or hot-plug the modems,3,PDP context,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EdI6Pr4LJoJCtJmzI0ZOADYBw4rr03YCa6sbZ8rN4WZIQQ?e=YI5IdL
+"LU610 Modems unable to enter state ""Connected"" ",3,PDP context,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EdI6Pr4LJoJCtJmzI0ZOADYBw4rr03YCa6sbZ8rN4WZIQQ?e=YI5IdL
+Scanning wifi networks effects live/VR/IFB when using wifi only,1,Wifi,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EaxQPTPhurNDgfwvh_w_NysBArlQ8RuMLxDjEv_ZVnAqEQ?e=sXaFlI
+[WiFi] 'Info/Debug' logs doesn't show while scanning for WiFi networks,1,Wifi,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EaxQPTPhurNDgfwvh_w_NysBArlQ8RuMLxDjEv_ZVnAqEQ?e=sXaFlI
+"(Random) Sometimes the ""Connections -> Wi-Fi Connections"", displays only 'saved wifi network'.",1,Wifi,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EaxQPTPhurNDgfwvh_w_NysBArlQ8RuMLxDjEv_ZVnAqEQ?e=sXaFlI
+Block 5G feature not working with manual operator selection,7,Force technlogoy,https://www.google.com/
+Sierra EM7430/7455 modules won't connect with Partner SIM Card when IPV4V6 PDP context is used,3,PDP context,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EdI6Pr4LJoJCtJmzI0ZOADYBw4rr03YCa6sbZ8rN4WZIQQ?e=YI5IdL
+Some modems fail to get connected,20,dialing,https://www.google.com/
+Quectel EM12 new FW can't connect to T-Mobile,3,PDP context,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EdI6Pr4LJoJCtJmzI0ZOADYBw4rr03YCa6sbZ8rN4WZIQQ?e=YI5IdL
+Modem HuaweiE8372h153 doesn't provide sim card provider name,4,Operator and technology name,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/ERDaX-9sYddJuQYbCGq9lyABr87WD-hycPJeLV0yR6q0jw?e=mePuSz
+Modem ZTEMF79S doesn't provide sim card provider name,4,Operator and technology name,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/ERDaX-9sYddJuQYbCGq9lyABr87WD-hycPJeLV0yR6q0jw?e=mePuSz
+GEO Location notification doesn't sent/updates in every 2 minutes,0,Geo-location,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/Ed93VNnljS9AiAOt1gKuf4EB8gA-ea43i5h7BASFzZSrJw?e=uuIdzx
+Few modems doesn't showing the details on LUC,4,Operator and technology name,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/ERDaX-9sYddJuQYbCGq9lyABr87WD-hycPJeLV0yR6q0jw?e=mePuSz
+"[Modem] For the EM-9191, it doesn't switch to ATT firmware.",13,Firmware switch,https://www.google.com/
+Huawei e8372h-153 wont connect on Futurize branch,15,connectivity issue,https://www.google.com/
+Roaming - Webbing SIM shows wrong operator name ,4,Operator and technology name,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/ERDaX-9sYddJuQYbCGq9lyABr87WD-hycPJeLV0yR6q0jw?e=mePuSz
+Modem  Huawei E3276  is not connecting on ver 7.0,15,connectivity issue,https://www.google.com/
+EM9191 stucks in low power mode after firmware upgrade,10,LPM,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EdIFV_cWGL9IjqM1BxlIF1gBzR9wkKP06_YZLWIEXhh6RA?e=5Kgek8
+EM9191 lpm doesn't recover with mbim commands,10,LPM,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EdIFV_cWGL9IjqM1BxlIF1gBzR9wkKP06_YZLWIEXhh6RA?e=5Kgek8
+EM9191 modems working v9.5.1 but when upgraded to v9.5.3+ goes into LPM mode,10,LPM,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EdIFV_cWGL9IjqM1BxlIF1gBzR9wkKP06_YZLWIEXhh6RA?e=5Kgek8
+EM7565 firmware switch puts modem in LPM mode,10,LPM,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EdIFV_cWGL9IjqM1BxlIF1gBzR9wkKP06_YZLWIEXhh6RA?e=5Kgek8
+Modem EM7455 stuck into connecting state,9,Statemachine,https://www.google.com/
+"Modem EM7565 going into ""Not Modem"" state",9,Statemachine,https://www.google.com/
+MMH RTSP fails to stream to Miltestone video server,27,RTSP,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EYXFxaqce1NFgw692tcHrocB-HaFpQwpYtMbGFs2MokvHg?e=e8njg0
+RTSP streaming cant initiate duo of Move Collector->Distributor traffic to UDS,27,RTSP,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EYXFxaqce1NFgw692tcHrocB-HaFpQwpYtMbGFs2MokvHg?e=e8njg0
+RTSP streaming cannot be initiated immediately after stopping and starting a new session,27,RTSP,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EYXFxaqce1NFgw692tcHrocB-HaFpQwpYtMbGFs2MokvHg?e=e8njg0
+Modem EM7430 modem unable to dial,9,Statemachine,https://www.google.com/
+RTSP did not work in two audio channels in VLC,27,RTSP,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EYXFxaqce1NFgw692tcHrocB-HaFpQwpYtMbGFs2MokvHg?e=e8njg0
+Modem EM7565 does not get IPv6 address,2,IPv6,https://www.google.com/
+Modem unable to connect with operator when getting IPv6,2,IPv6,https://www.google.com/
+Modem getting IPv6 address sometimes,2,IPv6,https://www.google.com/
+RTSP with CVIC source doesnt support more than 2 Audio channels,27,RTSP,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EYXFxaqce1NFgw692tcHrocB-HaFpQwpYtMbGFs2MokvHg?e=e8njg0
+DHCP failed in Verizon USB620L,17,DHCP issue,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EVMcJW8jE91Fq-wtatVaaKYBe99VckKA9SxS6_UD4Ti-RA?e=hLeT1F
+DHCP issue on Eth0 port,17,DHCP issue,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EVMcJW8jE91Fq-wtatVaaKYBe99VckKA9SxS6_UD4Ti-RA?e=hLeT1F
+Failed to get IPv4 address on Wi-Fi,17,DHCP issue,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EVMcJW8jE91Fq-wtatVaaKYBe99VckKA9SxS6_UD4Ti-RA?e=hLeT1F
+Novatel 730L not connecting on Solo,15,connectivity issue,https://www.google.com/
+Modem EM9191 force 4G not working,7,Force Technology,https://www.google.com/
+Modem RM500Q-GL force 3G/4G mode not working,7,Force Technology,https://www.google.com/
+Modem EM12G dual SIM not working,6,SIM switch,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EYTt0pDVqAtEnKc02XyypZoBdc26mx8dTrM0jZPuEzu0fA?e=EdEg62
+Modem EM9191 SIM A-B switching not working properly,6,SIM switch,https://liveutv-my.sharepoint.com/:w:/g/personal/jemish_liveu_tv/EYTt0pDVqAtEnKc02XyypZoBdc26mx8dTrM0jZPuEzu0fA?e=EdEg62
+Novatel 730L not connecting on Solo,15,connectivity issue,https://www.google.com/
+EM9191 doesn't switch to TMO firmware,13,Firmware switch,https://www.google.com/
+EM7304 stuck in dialing state,20,dialing,https://www.google.com/
+lu100gui is unable to load,28,lu100gui,https://www.google.com
